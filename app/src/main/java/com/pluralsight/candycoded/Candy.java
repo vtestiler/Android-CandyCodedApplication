@@ -6,4 +6,6 @@ public class Candy {
     public String image;
     public String price;
     public String description;
+
+    // Test
 }
